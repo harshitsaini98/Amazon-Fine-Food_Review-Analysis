@@ -39,4 +39,5 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 * test-20
 
 # Applying various Machine Learning models
-## Naive Bayes 
+# Naive Bayes 
+
