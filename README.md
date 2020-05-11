@@ -42,7 +42,15 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 # Naive Bayes 
 * Featurize the text data using the previous technique.
 * Tuned hyperparameter to get best alpha and plotted the graph at each iteration.
-* Obtained top 10 +Ve and -Ve features.
+* Obtained top 10 +Ve and -Ve features
+
+
 ![myimage-alt-tag](https://camo.githubusercontent.com/4c76daea0720266c597328122e923c04683c99c9/68747470733a2f2f692e696d6775722e636f6d2f4954796d4237552e706e67)
+
+## conclusion
+* Naive bayes are good at text classification task like spam filtering, sentimental analysis, RS etc.
+* As we know when a model performs good on training data but poor performence on unseen data(test data)i.e. its dependent on training     data only, tends to overfits and when a model perform poor performence on training data and good performence on test data i.e. it       fails to learn relationship in training data tends to underfit. We need to balance between both i.e. reduce training error and balance   error between both training and testing which is balanced in this case.
+* Another concept bias vs variance is also related with underfitting and overfitting. when a model has high bias and low variance tend     to underfitting and its reverse- high variance and low bias called overfitting and we balanced using cross-validataion. As it is shown   in below table where both models have low trainig error and test error.
+
 
 
