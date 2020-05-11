@@ -7,8 +7,8 @@ The purpose of this analysis is to make up a prediction model where we will be a
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
 # Source
-https://www.kaggle.com/snap/amazon-fine-food-reviews
-Number of reviews: 568,454
+* https://www.kaggle.com/snap/amazon-fine-food-reviews
+* Number of reviews: 568,454
 Number of users: 256,059
 Number of products: 74,258
 Timespan: Oct 1999 - Oct 2012
