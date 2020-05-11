@@ -40,4 +40,9 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 
 # Applying various Machine Learning models
 # Naive Bayes 
+* Featurize the text data using the previous technique.
+* Tuned hyperparameter to get best alpha and plotted the graph at each iteration.
+* Obtained top 10 +Ve and -Ve features.
+![myimage-alt-tag](https://camo.githubusercontent.com/4c76daea0720266c597328122e923c04683c99c9/68747470733a2f2f692e696d6775722e636f6d2f4954796d4237552e706e67)
+
 
