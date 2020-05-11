@@ -37,3 +37,6 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 * Train-60
 * cv-20
 * test-20
+
+# Applying various Machine Learning models
+## Naive Bayes 
