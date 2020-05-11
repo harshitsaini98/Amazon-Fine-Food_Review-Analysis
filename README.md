@@ -25,3 +25,15 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 * Time - timestamp for the review
 * Summary - brief summary of the review
 * Text - text of the review
+
+# Data Preprocessing
+* Remove Special characters
+* Remove stop words
+* Remove HTML Tags
+* Removing null coloumn
+
+# Splitting Data
+## Time based Splitting into train,cv and test
+   #Train-60
+   #cv-20
+   #test-20
